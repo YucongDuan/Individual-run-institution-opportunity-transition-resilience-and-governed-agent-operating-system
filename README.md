@@ -1,6 +1,8 @@
 # DIKWP-INSTITUTION95
 
-**Individual-run institution opportunity, transition, resilience and governed-agent operating system.**
+Created by Yucong Duan (段玉聪).
+
+Individual-run institution opportunity, transition, resilience and governed-agent operating system.
 
 The project helps a high-value individual move from owner-dependent expert labour to an institution with codified assets, bounded products, governed Agent roles, a cash/compound/options/public-value portfolio, protocol interfaces, partner federation, and continuity rules.
 
